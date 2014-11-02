@@ -1,0 +1,12 @@
+machine github.com
+    login <username>
+    password <password>
+machine api.github.com
+    login <username>
+    password <password>
+machine raw.github.com
+    login <username>
+    password <password>
+machine raw.githubusercontent.com
+    login <username>
+    password <password>
